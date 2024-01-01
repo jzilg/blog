@@ -77,4 +77,4 @@ So, when faced with the choice between `undefined`, which works well and is the 
 
 ## But of course...
 
-...if you are using a Library or JS core function that expects `null`, you should use it.
+...if you are using a library or JS core function that expects `null`, you should use it.
