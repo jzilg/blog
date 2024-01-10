@@ -13,7 +13,7 @@ So here are some reasons why you shoud stop using `null`
 
 ## null is buggy
 
-The root problem with `null` is, that it is buggy. It is one of its most infamous bugs in JavaScript.
+The root problem with `null` is, that it is buggy. It is one of the most infamous bugs in JavaScript.
 
 ```javascript
 typeof null // returns "object"
