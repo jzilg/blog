@@ -1,4 +1,4 @@
-# Why You Should Avoid Using `this` in JavaScript
+# Why You Should Not Use `this` in JavaScript
 
 **tl;dr** When possible, avoid using `this` in JavaScript to reduce complexity and potential bugs.
 
